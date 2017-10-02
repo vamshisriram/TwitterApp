@@ -48,6 +48,8 @@ CREATE TABLE `userfollower` (
 java -jar <<app>>.jar
   
 9. All database servers are started using default ports. If you are running databse servers in different ports and want to update username/password go to application.properties file in the code and update accordingly before you start running the application.
+
+10. Access application using http://localhost:8080/swagger-ui.html
   
 
 
