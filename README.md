@@ -47,6 +47,8 @@ CREATE TABLE `userfollower` (
 8. Build the application using mvn clean install, go to target folder and run 
 java -jar <<app>>.jar
   
+9. All database servers are started using default ports. If you are running databse servers in different ports and want to update username/password go to application.properties file in the code and update accordingly before you start running the application.
+  
 
 
 
